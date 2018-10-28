@@ -25,7 +25,7 @@ array.reverse
 end
 
 def kesha_maker(array)
-  new_arr = []
   array.each do |name|
-    name
+    name[2] = "$"
+  end
 end
