@@ -26,5 +26,6 @@ end
 
 def kesha_maker(array)
   new_arr = []
-  array.each do |
+  array.each do |name|
+    name
 end
