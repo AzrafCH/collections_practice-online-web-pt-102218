@@ -21,6 +21,5 @@ def swap_elements(array)
 end 
 
 def reverse_array(array)
-  copy = array.reverse
-  puts copy.join
+array.reverse
 end
