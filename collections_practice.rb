@@ -22,5 +22,5 @@ end
 
 def reverse_array(array)
   copy = array.reverse
-  
+  puts copy.join
 end
